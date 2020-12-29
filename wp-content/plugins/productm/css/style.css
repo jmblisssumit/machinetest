@@ -1,0 +1,7 @@
+.product-item {
+    width: 100%;
+    max-width: 435px !important;
+    float: left;
+    margin: 0 auto !important;
+    padding: 5rem;
+}

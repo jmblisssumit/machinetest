@@ -1,1 +1,10 @@
-heloo
+Git clone url :- https://github.com/jmblisssumit/machinetest.git
+
+Wp-Admin :-
+
+USER :- test
+PASS :- test@123
+
+Plugin Shorcode to display product :- [productm-list]
+
+Database file name - meet_db
